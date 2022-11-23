@@ -6,17 +6,17 @@
 
 ## Archivos
 
-    1. DataLog.txt
-        Este archivo contiene la información del log inicial.
+1. DataLog.txt
+ Este archivo contiene la información del log inicial.
     
-    2. Parsing_Rules.config
-        Este archivo continen los criterios de alertas sospechas para la comparación con el log.
+2. Parsing_Rules.config
+ Este archivo continen los criterios de alertas sospechas para la comparación con el log.
     
-    3. Alerts_Triggered.txt
-        Una vez ejecutado el programa, este archivo contendrá las alertas tomadas
+3. Alerts_Triggered.txt
+ Una vez ejecutado el programa, este archivo contendrá las alertas tomadas
 
-    4. Report.log
-        Una vez ejecutado el programa, este archivo contendrá la información del log que cumple con los crierios de búsqueda del usuario
+4. Report.log
+ Una vez ejecutado el programa, este archivo contendrá la información del log que cumple con los crierios de búsqueda del usuario
 
 
 ## Instalación y uso
